@@ -1,3 +1,27 @@
+# How to Create a Simple To Do App with React
+
+## Step 1: `create-react-app`
+To run the app:
+
+1. `npm start` and open a new browser at [http://localhost:3000](http://localhost:3000)
+
+## Step 2: Make Some Components
+Components are like little Lego blocks. You can use them to build bigger and better things.
+
+1. Make a folder in `src` called `components`. This is where we'll keep all of our little building blocks.
+2. Make a file called `ToDo.jsx` in the `components` folder. We are going to use `.jsx` here because we will have HTML in our component.
+
+```
+// ToDo.jsx
+
+```
+
+First, we're going to import `useState` from React so we can use the state of what users are typing into the input for the to do's name.
+
+## Step 3: More components
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +92,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
